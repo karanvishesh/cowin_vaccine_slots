@@ -3,7 +3,12 @@
 
 # cowin_vaccine_slots
 
-https://user-images.githubusercontent.com/66847518/128471155-57275703-db73-4317-82cb-1e0778e67cb4.mp4
+
+
+https://user-images.githubusercontent.com/66847518/128471261-cfccc17e-1f24-4ca7-915d-0cfd81d32bf5.mp4
+
+
+
 A new Flutter project.
 
 ## Getting Started
